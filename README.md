@@ -29,12 +29,3 @@ Adicione um print ou gif da aplicação aqui.
 - style.css: Define os estilos da interface.  
 - main.js: Inclui a lógica para reproduzir os sons ao interagir com a aplicação.
 
-🎯 Como Executar
-
-1. Clone o repositório:  
-   git clone https://github.com/seu-usuario/aluramidi.git  
-2. Abra o arquivo index.html no seu navegador.
-
-🤝 Contribuição
-
-Fique à vontade para sugerir melhorias ou abrir issues.
